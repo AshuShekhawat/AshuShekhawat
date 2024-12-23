@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AshuShekhawat
-- 👀 I’m interested in Java Programming and Web Developement
-- 🌱 I’m currently learning Core Java
+- 👀 I’m passionate about Java Programming and Web Developement
+- 🌱 I’m currently learning microservices
+- ✨Always curious, constantly creating, and ready to solve challenges.
 
 <!---
 AshuShekhawat/AshuShekhawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
